@@ -1,0 +1,7 @@
+{
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "printWidth": 100,
+  "tabWidth": 2,
+  "plugins": ["prettier-plugin-organize-imports"]
+}
